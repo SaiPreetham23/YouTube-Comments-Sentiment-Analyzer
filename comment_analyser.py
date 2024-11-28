@@ -280,5 +280,4 @@ cm
 
 # Accuracy
 nb_score = accuracy_score(y_test, y_pred)
-print('Accuracy:',(nb_score*100))
-
+print('Accuracy:',round((nb_score*100),2),"%")
