@@ -6,3 +6,5 @@ comments. Using the VADER (Valence Aware Dictionary and sEntiment Reasoner) sent
 (Natural Language Toolkit) library, the analyser classifies comments into positive, negative, or neutral categories based on 
 their textual content. The preprocessing pipeline involves converting text to lowercase, removing punctuation, special 
 characters, stopwords, and applying lemmatization to normalize the text. 
+
+You need to install all the required libraries/packages to get the desired output.
